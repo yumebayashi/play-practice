@@ -1,5 +1,8 @@
 # play_practice
 
 ```
-activator run
+activator run  
+  
+debug mode  
+activator -jvm-debug run
 ```
